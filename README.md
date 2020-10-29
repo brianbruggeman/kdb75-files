@@ -37,11 +37,15 @@ This layer is a basic windows keyboard layout.  It should be immediately familia
 my family is most familiar with Windows and won't know the multiple layer layout and Layer 0 is the default
 layer when plugged in.
 
+![Image of Layer 0](layer-00.png)
+
 ### Layer 1 - MacOs
 Key combo:  Fn + 2
 
 This is the layer I'll use most often.  Each time the keyboard is plugged in to a Mac, I'll need to switch to 
 this layer.
+
+![Image of Layer 1](layer-01.png)
 
 ### Layer 2 - Gaming (Windows)
 Key combo:  Fn + 3
@@ -50,6 +54,8 @@ This layer contains a standard left hand and then it's split with the right hand
 controls.  While the functionality is all available for running a mouse with 5 buttons, the practical use-case for
 a keyboard driven mouse is low.  A standard mouse in a gaming scenario is far quicker/more accurate especially with
 camera scanning.
+
+![Image of Layer 2](layer-02.png)
 
 ### Layer 15 - Control
 Key combo:  Fn (momentary)
@@ -60,6 +66,7 @@ keyboard.
 Additionally, this layer contains the RESET button for flashing.  Without RESET, I'd need to unscrew the
 case and access the on-board switch.  Flashing uses the QMK Toolbox.
 
+![Image of Layer 15](layer-15.png)
 
 ## Links
 
